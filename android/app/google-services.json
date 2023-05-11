@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "598468844483",
+    "firebase_url": "https://sahayak-mj-default-rtdb.firebaseio.com",
+    "project_id": "sahayak-mj",
+    "storage_bucket": "sahayak-mj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598468844483:android:e40ce7b21341d129b1bb76",
+        "android_client_info": {
+          "package_name": "com.farish.sahayakKooli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598468844483-iuckhm4701755lvj1459vaalv9uu4djs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXbqlzx2t2Nzik3YY8jIuSfEbjJSBzxto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598468844483-iuckhm4701755lvj1459vaalv9uu4djs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
